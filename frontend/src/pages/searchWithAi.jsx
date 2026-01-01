@@ -1,5 +1,5 @@
 import { FaArrowLeftLong } from "react-icons/fa6"
-import img from "../assets/searchAi.png"
+import img from "../assets/searchai.png"
 import { RiMicAiFill } from "react-icons/ri"
 import { useNavigate } from "react-router-dom"
 import { useState } from "react";
