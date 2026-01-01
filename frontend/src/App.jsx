@@ -4,7 +4,7 @@ import Home from './pages/home'
 import Signup from './pages/signup'
 import Login from './pages/login'
 import { Routes, Route, Navigate } from 'react-router-dom'  
-export const apiUrl = "http://localhost:8000"
+export const apiUrl = "https://lms-project-ztr0.onrender.com"
 import { ToastContainer } from 'react-toastify';
 import "react-toastify/dist/ReactToastify.css";
 import GetCurrentUser from './customHooks/getCurrentUser.jsx';
